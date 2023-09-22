@@ -1,3 +1,77 @@
-.logo {
-  text-transform: uppercase;
+body {
+  color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-navigation-list {
+}
+.header-navigation-item {
+}
+.header-navigation-link {
+}
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.header-address-link {
+}
+.hero-section {
+}
+.hero-title {
+}
+.hero-button {
+}
+.features-section {
+}
+.features-list {
+}
+.features-item {
+}
+.features-subtitle {
+}
+.features-text {
+}
+.team-section {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-item-subtitle {
+}
+.team-item-text {
+}
+.portfolio-section {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.potrfolio-item {
+}
+.portfolio-item-link {
+}
+.portfolio-item-img {
+}
+.portfolio-item-subtitle {
+}
+.portfolio-item-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
 }
